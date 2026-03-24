@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="1400" height="760" fill="#eef2f3"/>
+<rect x="40" y="36" width="1320" height="150" rx="28" fill="#12343b"/>
+<text x="88" y="102" fill="#f7f5ef" font-family="Arial, sans-serif" font-size="44" font-weight="700">HVDC OpsBrain</text>
+<text x="88" y="146" fill="#dbe7ea" font-family="Arial, sans-serif" font-size="22">Warehouse digital twin and decision intelligence platform</text>
+<rect x="60" y="220" width="290" height="180" rx="22" fill="#ffffff"/>
+<rect x="375" y="220" width="290" height="180" rx="22" fill="#ffffff"/>
+<rect x="690" y="220" width="290" height="180" rx="22" fill="#ffffff"/>
+<rect x="1005" y="220" width="290" height="180" rx="22" fill="#ffffff"/>
+<text x="90" y="270" fill="#5a6a70" font-family="Arial, sans-serif" font-size="18">SERVICE LEVEL</text>
+<text x="90" y="335" fill="#12343b" font-family="Arial, sans-serif" font-size="46" font-weight="700">70.8%</text>
+<text x="405" y="270" fill="#5a6a70" font-family="Arial, sans-serif" font-size="18">AVG TRUCK WAIT</text>
+<text x="405" y="335" fill="#12343b" font-family="Arial, sans-serif" font-size="46" font-weight="700">20.2 min</text>
+<text x="720" y="270" fill="#5a6a70" font-family="Arial, sans-serif" font-size="18">THROUGHPUT</text>
+<text x="720" y="335" fill="#12343b" font-family="Arial, sans-serif" font-size="46" font-weight="700">72 trucks</text>
+<text x="1035" y="270" fill="#5a6a70" font-family="Arial, sans-serif" font-size="18">LEAD ACTION</text>
+<text x="1035" y="325" fill="#12343b" font-family="Arial, sans-serif" font-size="24" font-weight="700">Top recommendation</text>
+<foreignObject x="1035" y="338" width="230" height="72">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:16px;color:#355159;line-height:1.25;">Add 18 workers to night shift receiving</div>
+</foreignObject>
+<rect x="60" y="440" width="1240" height="260" rx="24" fill="#ffffff"/>
+<text x="90" y="495" fill="#12343b" font-family="Arial, sans-serif" font-size="30" font-weight="700">Decision Cockpit Snapshot</text>
+<text x="90" y="535" fill="#355159" font-family="Arial, sans-serif" font-size="20">Use the Streamlit dashboard to explore scenario impacts, bottlenecks, recommendations, and recent run history.</text>
+<rect x="90" y="570" width="360" height="18" rx="9" fill="#d8e4e8"/>
+<rect x="90" y="570" width="284" height="18" rx="9" fill="#0b5c7a"/>
+<text x="90" y="620" fill="#5a6a70" font-family="Arial, sans-serif" font-size="18">Service level signal</text>
+<rect x="520" y="570" width="360" height="18" rx="9" fill="#fbe1cc"/>
+<rect x="520" y="570" width="164" height="18" rx="9" fill="#f28f3b"/>
+<text x="520" y="620" fill="#5a6a70" font-family="Arial, sans-serif" font-size="18">Wait-time pressure</text>
+<rect x="950" y="570" width="300" height="18" rx="9" fill="#dae4cf"/>
+<rect x="950" y="570" width="205" height="18" rx="9" fill="#7a8b5a"/>
+<text x="950" y="620" fill="#5a6a70" font-family="Arial, sans-serif" font-size="18">Throughput posture</text>
+</svg>
