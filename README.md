@@ -2,6 +2,13 @@
 
 HVDC OpsBrain is a production-style warehouse digital twin and decision intelligence platform that combines synthetic operations data, forecasting, optimization, simulation, analytics, and a Streamlit control tower for inbound and internal warehouse flow decisions.
 
+## Why It Stands Out
+
+- blends forecasting, optimization, simulation, and recommendations in one decision workflow
+- includes scenario comparison and persisted run history instead of a single static dashboard
+- ships with a polished multi-page Streamlit app, tests, docs, Docker support, and export scripts
+- is framed around realistic warehouse management questions rather than generic ML demos
+
 ## Problem Statement
 
 Warehouse leaders need to answer operational "what-if" questions before service levels erode:
@@ -89,6 +96,18 @@ python scripts/generate_showcase_assets.py
 streamlit run app/streamlit_app.py
 ```
 
+## Tech Stack
+
+- Python 3.11+
+- pandas, numpy, scikit-learn
+- OR-Tools
+- SimPy
+- Streamlit
+- Plotly
+- pydantic
+- SQLAlchemy + SQLite
+- pytest
+
 ## Screenshots
 
 Add screenshots from the Streamlit app here after launching the local demo:
@@ -107,6 +126,10 @@ Executive snapshot:
 Scenario comparison snapshot:
 
 ![Scenario comparison snapshot](docs/assets/scenario_comparison_snapshot.svg)
+
+## Portfolio Summary
+
+HVDC OpsBrain answers the kinds of questions warehouse leaders care about in practice: how inbound surges, labor shortages, fragile mix changes, and dock outages affect wait time, throughput, congestion, and service level. The platform combines scenario-aware synthetic operations data, forecast modeling, dock and labor planning, SimPy-based digital twin analysis, bottleneck analytics, recommendation generation, and a polished Streamlit interface for decision support.
 
 ## Current Status
 
